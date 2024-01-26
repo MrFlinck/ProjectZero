@@ -30,6 +30,11 @@ eas credentials
 firebase init
 firebase login 
 
+/// para lnaçar para o github
+git add .
+git commit -m "mensagem"
+git push
+
 
 npx expo start --dev-client
 npx expo install expo-dev-client 
